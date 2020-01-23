@@ -1,0 +1,10 @@
+C:\Users\Makala\source\repos\Vezba\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.deps.json
+C:\Users\Makala\source\repos\Vezba\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\Makala\source\repos\Vezba\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Makala\source\repos\Vezba\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Makala\source\repos\Vezba\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfo.cs
+C:\Users\Makala\source\repos\Vezba\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.runtimeconfig.json
+C:\Users\Makala\source\repos\Vezba\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Makala\source\repos\Vezba\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.pdb
+C:\Users\Makala\source\repos\Vezba\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\Makala\source\repos\Vezba\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.pdb
